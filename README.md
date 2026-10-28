@@ -41,7 +41,7 @@ Consensus equity multiples fail to account for the elevated sovereign yield curv
 
 ### 3. Float Illiquidity Distortion
 At a market quotation of ₦1,111.00, the equity price is heavily isolated from fundamentals due to an 85.8% majority sponsor holding, leaving an ultra-thin free float. Weighting the DCF fair value (60%) with historical peer EV/EBITDA multiple parity of ₦715.00 (40%) establishes an intrinsic 12-month blended target price of **₦480.00**, representing an implied combined downside of **-56.8%**.
-![Figure 3](./figure3_fcff_conversion.png)
+FY20-FY29F.png
 
 ---
 
