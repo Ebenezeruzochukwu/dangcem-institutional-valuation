@@ -15,6 +15,7 @@
 ---
 
 ## Repository Deliverables
+## Repository Deliverables
 1. **[Research Initiation Report (PDF)](./DANGCEM%20Analysis.pdf):** Institutional sell-side equity research report featuring:
    * Executive Tearsheet & Peer Comps Benchmark (BUA Cement, Lafarge Africa)
    * Asset Footprint & Competitive Moat Diagnostic (52.0Mta Pan-African capacity)
