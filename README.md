@@ -33,15 +33,15 @@
 
 ### 1. Repricing Masks Operational Stagnation
 Dangote Cement’s top-line revenue expansion from ₦1,029.99B (FY20) to ₦3,580.55B (FY24) (+36.55% CAGR) was driven almost entirely by aggressive nominal average selling price (ASP) adjustments (+34.04% CAGR) following currency devaluations. Over the same 5-year period, group sales volumes remained range-bound between 25.0Mta and 28.0Mta, revealing lack of underlying demand growth in the domestic market.
-![Figure 1](./figure1_volume_vs_asp.png)
+![Figure 1: Historical Volume vs Realized ASP](./FY20-FY24.png)
 
 ### 2. Cost-of-Capital Disconnect (18.50% WACC)
 Consensus equity multiples fail to account for the elevated sovereign yield curve and corporate borrowing environment in Nigeria. Discounting projected unlevered free cash flows (scaling from ₦722.2B in FY25F to ₦1,412.4B in FY29F) using an empirical cost of capital of 18.50% (Cost of Equity: 20.80%, Post-Tax Cost of Debt: 11.20%) anchors fundamental DCF equity value at **₦323.35 per share**.
-![Figure 2](./figure2_revenue_ebitda.png)
+![Figure 2: 10-Year Revenue and Margin Trajectory](./FY20-FY29F.png)
 
 ### 3. Float Illiquidity Distortion
 At a market quotation of ₦1,111.00, the equity price is heavily isolated from fundamentals due to an 85.8% majority sponsor holding, leaving an ultra-thin free float. Weighting the DCF fair value (60%) with historical peer EV/EBITDA multiple parity of ₦715.00 (40%) establishes an intrinsic 12-month blended target price of **₦480.00**, representing an implied combined downside of **-56.8%**.
-FY20-FY29F.png
+![Figure 3: FCFF and Cash Conversion Profile](./FCFF.png)
 
 ---
 
